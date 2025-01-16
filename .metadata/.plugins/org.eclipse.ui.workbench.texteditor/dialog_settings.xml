@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item value="false" key="isRegEx"/>
+		<item value="GPIO_PCTL" key="selection"/>
+		<item value="false" key="casesensitive"/>
+		<item value="false" key="incremental"/>
+		<item value="true" key="wrap"/>
+		<item value="false" key="wholeword"/>
+		<list key="findhistory">
+			<item value="GPIO_PCTL"/>
+			<item value="GPIO_PWM"/>
+			<item value="GPIO_PORTB_PCTL"/>
+			<item value="delay"/>
+			<item value="b SYSCTL_PERIPH_CCM0,\b delay"/>
+			<item value="b SYSCTL_PERIPH_CCM0,\b SYSCTL_PERIPH_COMP0,"/>
+			<item value="de"/>
+			<item value="pwm_en"/>
+			<item value="clock di"/>
+			<item value="pwm"/>
+			<item value="GPIOB"/>
+			<item value="PORTB"/>
+			<item value="GPIOPinTypeI2C"/>
+			<item value="I2C_MASTER_CMD_SINGLE_RECEIVE"/>
+			<item value="sysctlde"/>
+		</list>
+		<list key="replacehistory">
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item value="336" key="DIALOG_WIDTH"/>
+		<item value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI" key="DIALOG_FONT_NAME"/>
+		<item value="454" key="DIALOG_HEIGHT"/>
+		<item value="1016" key="DIALOG_X_ORIGIN"/>
+		<item value="206" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

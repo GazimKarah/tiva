@@ -1,0 +1,14 @@
+C:\Users\bb\Documents\SharpDevelop Projects\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\bb\Documents\SharpDevelop Projects\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\bb\Documents\SharpDevelop Projects\deneme\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\bb\Documents\SharpDevelop Projects\deneme\deneme\obj\Debug\deneme.MainForm.resources
+C:\Users\bb\Documents\SharpDevelop Projects\deneme\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\bb\Documents\SharpDevelop Projects\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\bb\Documents\SharpDevelop Projects\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\bb\Documents\SharpDevelop Projects\seri2ogr\deneme\obj\Debug\deneme.csprojResolveAssemblyReference.cache
+C:\Users\bb\Documents\SharpDevelop Projects\seri2ogr\deneme\obj\Debug\deneme.MainForm.resources
+C:\Users\bb\Documents\SharpDevelop Projects\seri2ogr\deneme\obj\Debug\deneme.csproj.GenerateResource.Cache
+C:\Users\bb\Documents\SharpDevelop Projects\seri2ogr\deneme\obj\Debug\deneme.exe
+C:\Users\bb\Documents\SharpDevelop Projects\seri2ogr\deneme\obj\Debug\deneme.pdb
+C:\Users\bb\Documents\SharpDevelop Projects\seri2ogr\deneme\bin\Debug\deneme.exe
+C:\Users\bb\Documents\SharpDevelop Projects\seri2ogr\deneme\bin\Debug\deneme.pdb
